@@ -1,0 +1,10 @@
+**Жирный текст**
+*курсив*
+***Жирный курсив***
+~~Зачеркнутый~~
+`Console.Writeline("Hello")`
+```csharp
+string name;
+name = Console.Readline();
+Console.Writeline(name)
+```
